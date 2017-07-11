@@ -15,7 +15,8 @@ public class RoshamboApp {
         String opposition;
         Roshambo userSelection;
         Roshambo oppositionSelection;
-
+        
+        //assign 0 for win and 1 for lose
         int[] record = new int[2];
 
         // creating objects
